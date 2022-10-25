@@ -24,7 +24,7 @@
 			"originalTitle": "Il Pincipe",
 			"publicationYear": 1532,
 			"read": false,
-			"comment": ""
+			"comment": null
 		},
 		{
 			"id": 4,
@@ -33,7 +33,7 @@
 			"originalTitle": "Ultime lettere di Jacopo Ortis",
 			"publicationYear": 1802,
 			"read": false,
-			"comment": ""
+			"comment": null
 		},
 		{
 			"id": 5,
@@ -42,7 +42,7 @@
 			"originalTitle": "I promessi sposi",
 			"publicationYear": 1827,
 			"read": false,
-			"comment": ""
+			"comment": null
 		}
 	],
 	"profile": {
